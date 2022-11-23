@@ -19,5 +19,6 @@ Based on the constructed model, we simulate the decision of the model under diff
 *Keywords: Water Allocation, Economy, Multi-objection Optimal Problem, Genetic Algorithm*
 
 ## Model Framework
-
-<img src="https://github.com/Wanqi9Hu/Multi-objection-Optimal-Allocation-Model-for-Water-Management-of-Colorado-River/blob/main/Model%20Framework.png" width="1600" height="1000">
+<div align=center>
+<img src="https://github.com/Wanqi9Hu/Multi-objection-Optimal-Allocation-Model-for-Water-Management-of-Colorado-River/blob/main/Model%20Framework.png" width="800" height="600">
+</div>
