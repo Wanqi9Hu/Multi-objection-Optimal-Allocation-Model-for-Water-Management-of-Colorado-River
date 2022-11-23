@@ -36,7 +36,7 @@ Based on the constructed model, we simulate the decision of the model under diff
 
 * Demands of water and electricity satisfied by two dams
 <div align=center>
-<img src="https://github.com/Wanqi9Hu/Multi-objection-Optimal-Allocation-Model-for-Water-Management-of-Colorado-River/blob/main/2damsdemand.jpg" width="450" height="225">
+<img src="https://github.com/Wanqi9Hu/Multi-objection-Optimal-Allocation-Model-for-Water-Management-of-Colorado-River/blob/main/2damsdemand.jpg" width="550" height="325">
 </div>
 
 * Demands of water and electricity satisfied by two dams and additional resources
