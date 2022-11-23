@@ -22,3 +22,9 @@ Based on the constructed model, we simulate the decision of the model under diff
 <div align=center>
 <img src="https://github.com/Wanqi9Hu/Multi-objection-Optimal-Allocation-Model-for-Water-Management-of-Colorado-River/blob/main/Model%20Framework.png" width="600" height="450">
 </div>
+
+## Coordination System of the two Dams
+* General structure of a dam
+* Coordination between the Glen Canyon dam and the Hoover dam
+* Demands of water and electricity satisfied by two dams
+* Demands of water and electricity satisfied by two dams and additional resources
