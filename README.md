@@ -20,5 +20,5 @@ Based on the constructed model, we simulate the decision of the model under diff
 
 ## Model Framework
 <div align=center>
-<img src="https://github.com/Wanqi9Hu/Multi-objection-Optimal-Allocation-Model-for-Water-Management-of-Colorado-River/blob/main/Model%20Framework.png" width="400" height="300">
+<img src="https://github.com/Wanqi9Hu/Multi-objection-Optimal-Allocation-Model-for-Water-Management-of-Colorado-River/blob/main/Model%20Framework.png" width="600" height="450">
 </div>
